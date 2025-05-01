@@ -1,4 +1,4 @@
-# react-bootstrap-tips-
+# react-bootstrap-complete-guide-
 React Bootstrap blog and Tips
 ## React Bootstrap Guide 2025
 
